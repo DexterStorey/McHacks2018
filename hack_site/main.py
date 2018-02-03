@@ -25,4 +25,4 @@ app = webapp2.WSGIApplication([
 ], debug=True)
 
 
-print('Dexter smells like eggs')
+print('Ted smells like eggs')
