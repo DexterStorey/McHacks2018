@@ -18,11 +18,13 @@ import webapp2
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-        self.response.write('Bitch it works!')
+        self.response.write('Dexter smells not good!')
 
 app = webapp2.WSGIApplication([
     ('/', MainHandler)
 ], debug=True)
 
 
-print('Ted smells like eggs')
+print('Dex smells like eggs')
+
+
