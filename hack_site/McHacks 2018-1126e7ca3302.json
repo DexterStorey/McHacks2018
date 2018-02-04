@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mchacks-2018",
+  "private_key_id": "1126e7ca330248043bfd8bebc408ef5e63063cd4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDemgZSa4yjtnK0\nPEEv1jFnbt/xJywxljJ3/6zqhiGdxkq1ro+LyC1raZSXWCjs9zBa78Nu45Ng3JH8\n4MNMPINJlfmb+6GCFd5CcZF6EUugp+kSoDp5rzXLf6qO1m/V403kSKmArJgMoE+d\nk+pCQkJwAgSsilA72YVTcah/fjt2IKy392g3sib5v6avpbArrQV8q6OwsKt4PE9+\n8zolF2mZMVqvQlnzmqdjbqIzHYxlvS0VLuVhKACUOvfEHDhSvoJFtYkRhNBL+OR6\nqotOQRdnPY2Caj/emAQyx3qNzJ5fIZQVGpN3PoYz/qvidZR93Tq0DR1JJm0LOSdd\ntTNoOlOhAgMBAAECggEACTj57pPAo67FMVT2wW/fI6ErG49rLBHEPQcFh8DvZx1G\nTqExFtJAGX1qF9wh8/Fo2jepUfCRVFfHH6JDTScLrHKPgSgrgJt91iRk6dkKGFmk\nlS44xf5dnPUI4LqfLw4oFb9x8GAWO52vtsBgWgbrQD9BKNHhMZ2ZQcQJfmDBP2tW\n2Z5Cs23ZgpBDf0z6eUMTrg/jGPT8pt59USEK1d6PUDWQxfNQVjIx/PL14WWVOFCJ\nQSqZ7PCRblIKAJctATwMuOvaZNEyR7lmviedzfPY7e8jm7NcIyy6qJkN5jTj1rTy\n3b4+7YeN4Ds1WooZsoh1pLZJK3TwkTaC2bXED6SzHQKBgQD3Mq0cKgMs33NM0qXI\nK0a5gOpLffm4h5xFvNmWRMbULdOHtDpcXjgd96Z2xfEDK6CYKwyTdxaPcIrL/RE8\nPo6CNkma0SXviDOB5zkkOcgyFRBYpFBDhc1gEJuj83885PpgikPw1zmd0njQaIXo\n+OWVCfXDQNDAa7qkV8tKqFZ2NQKBgQDmhyRRgQJyM/bg3pTGlFLhUD/bN9JN3X7/\ninyj0FgDxmhQkCduIdC8RdCHmdHxfUN9fWqmPvhN6XK3NXRJ/PEYLPjUVNJFNNh0\n7qCSOy8zpJ636VkBUSTKbavZsICGTxAGStVwy2QGH6ijtWKyFUBqmpytkT7tKx5u\noyRcubClPQKBgESzetUHABbqizrgmF6HWIKZx4PvoQWd+tqO39IZj0DM86sVddrR\n/LqnZ0Y/QPpml51y6W3afRSkbI7A6Jdbs3OQ7ufuFKL7sYT65DCjNnZk0EQydnQt\nraRzOS5ZsBUWdld6VeOLjWHFavpQ8laLRhMjz3/SdbHkvtyJ4d//5Pe5AoGBANF7\niPNPiouA0R0y5ns1mcMJi52HsmHzn05T6ENsNi7oAy8Cb/JSZD5SKtauXutVaxkD\n+QAtRLJ4Kzh1KMF7SxMu+sbodVNSXEiV9/AqPBBvzZNORwU9WXNiCcH99C0Yd3Vg\nV2jySmiOKE7rq04spaa57RqEXGxkvHjJY2enje/5AoGBAK0zh7N2Yc09Io65+GXt\nlsi5z+N0NUAiTCCI75UfDkYLrU195qqFANMXmeekALeloEc4DJIRDS/3DI/rQ+XK\nP6hxpMMvc4O7R9xVQTXp8oRUE/gZOy9phGQMVdyrroUTi2fnEKmQBgxdZoEGrRu9\nEdcAh5FjNaAO77vstat3cTvA\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-speech-library@mchacks-2018.iam.gserviceaccount.com",
+  "client_id": "104178856420426956409",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-speech-library%40mchacks-2018.iam.gserviceaccount.com"
+}

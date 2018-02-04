@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mchacks-2018",
+  "private_key_id": "30915307484de6ec544fae1756925af922306ce6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCn9ZBz9X022+Fk\nSDVACsoc6jqi6tkIE+guQQBmQFWgu0qDJ7tP/WORg8kQF8igLJH1Xidm4Aa2DvOt\nZUoXNcW0eUFkQFPY3wjv+FnouwQBi8EghUz+5GvaancuefUCCuIlRNy0Im7m0h1W\nA9Y+cP96l1wCjgzJe2VFEguy3ZOW6s4He2FHqNjlMubbEK3HXhfDrgrVjvU1L/Yq\ng3hA+4AzNsLIlElWZv1TlTqm64wvGV7p/p0TqcjLlRKPfgN5UKkPwTPnkPOvSIjx\naYneH5eLBwKi4edA2TB4RJ//5uut7yxzhoxce8qGWaacuLv9Cavvd6DLGR3NEaRH\n1zbixIBVAgMBAAECggEANxGJALQTD1sNbdNM/kfrV4qmmgb1DLR2MkAmsN/UE2SE\n/DaZMBNMw4eZczjRE085teDee1jlamjBlW752V1Miq0c9xEuTJNn+0IKvIcgu58G\nPbLm+UWMZSr2E5tx7O8DkaOf10HY6b4nVy3f304uPZQF22KWp7LZE8nkYwtKGjcv\nElAJS45blVwacTo6lPYfA/jP/uz6xRyBzdDBnE0TwC+RzlvbBTodpZ560t780WdW\nSr5k1k0rcP88LzspvlF8mNOul6XhcePjU1i2idoreVDt5wxmo8W6TVGgfP61U+I4\nh2zVmCwHi4NwLMSWm+fQRGgaC6p4KoYSQm0G+QJ4GwKBgQDbJB+BS5u6cPCvuaJL\nkcjOh94fSUnqjpHc9fChqZRvyOHrfIN1xXhzTWVYiHoh75/22WZ4dtjtJCMj8TQ5\nmYQyQMsMjOTzFG7tCiF9Lh3MMy93zWfeLdQWiGsukELlQGh1eIR5loiRgkYLzYLU\nlOygmzwFmF2pbB7MPnfCyEZrNwKBgQDENaEKMcZxq4+Oi3+mLouqdj74URl+c/HG\n2kV89Nvlrtm0d7pvJ5+ImoaKLBk+cqF1bmb0m+8j6PCLgcezck6i7AEag1WYffRx\nR1Y6fWBbZnepnqOsG6i52ckioVA7FIpryL62PmwId1yWSR9VolsBo/HCK9uVGzUu\n3wJy59vu0wKBgBdcEGet8Zm8NEvnE9/OWIN7hDf9jf2M2Quew9nXw9TuqvZ5PWIu\nfJp945G+apZ3fqvHnN62fIU61uwb6B9DuA3LTlm2IymuQezOqac4ZUDBLAwvPyU1\n6WfFfvdltVvOs9Ph1u1HGKO6KVFUxN94SIkOQyWtij5nIhlPh2CiDK+dAoGAJ78l\nbEdBB+3VGu8vYJ61NEbX4r2rCG68X6f/w5xmn1SYTXKjlbjVHHsRHhRo2Lmn8331\n5T9hZkjd0aTsq3FQdLiSUKiiQk3hosDsutSDHIDZZMb6KPdBasSvdhBvjEhQ8hys\nZYano99qJheR/WryPJbVdpwj00S7tU7/0/8cEnkCgYBPFK2q+VAvhIBvUyOendLm\nx2lv8BsZHtZ8+wIqj+UCxxqlxVA3EvFTkDAtr3z2JItxAbSS9qoghngSK5OhQXYK\ncRZ/8rucHJxJMqApmOmghFVQm9+xoU3BqhdqvpCLd5gqBpbWjj8wX/ys39oPNvLB\nIQNQ6YcZxjBUwqkKMHsbIg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mchacksspeechtotextapi-897@mchacks-2018.iam.gserviceaccount.com",
+  "client_id": "104753521768143949643",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mchacksspeechtotextapi-897%40mchacks-2018.iam.gserviceaccount.com"
+}
